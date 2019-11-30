@@ -36,3 +36,5 @@ Read related [reddit post](https://www.reddit.com/r/MachineLearning/comments/dsv
 ## More
 
 * [A curated list of AI and machine learning resources](https://medium.com/machine-learning-in-practice/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
+
+* [A list of awesome Robotics resources](https://github.com/kiloreux/awesome-robotics)
