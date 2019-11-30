@@ -33,6 +33,11 @@ Making sense of the hidden layers.
 #### [Deploy ML models with Django](https://www.deploymachinelearning.com/)
 Read related [reddit post](https://www.reddit.com/r/MachineLearning/comments/dsvk20/p_deploy_machine_learning_models_with_django/).
 
+## Books
+
+#### [Modern Robotics: Mechanics, Planning and Control](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf)
+Topics include: Configuration Space, Rigid-Body Motions, Forward Kinematics, Velocity Kinematics and Statics, Inverse Kinematics, Kinematics of Closed Chains, Dynamics of Open Chains, Trajectory Generation, Motion Planning, Robot Control, Grasping and Manipulation and Wheeled Mobile Robots.
+
 ## More
 
 * [A curated list of AI and machine learning resources](https://medium.com/machine-learning-in-practice/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
