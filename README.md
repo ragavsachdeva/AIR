@@ -35,6 +35,9 @@ Read related [reddit post](https://www.reddit.com/r/MachineLearning/comments/dsv
 
 ## Books
 
+#### [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+Topics include: Overview of Supervised Learning, Linear Models for Regression, Linear Methods for Classification, Basis Expansions for Regularisation, Kernel Smoothing Methods, Model Assessment and Selection, Model Inference and Averaging, Additive Models, trees and Related Methods, Boosting and Additive Trees, Neural Networks, Support Vector Machines and Flexible Discriminants, Prototype Methods and Nearest-Neighbours, Unsupervised Learning, Random Forests, Ensemble Learning, Undirected Graphical Models, High-Dimension Problems.
+
 #### [Modern Robotics: Mechanics, Planning and Control](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf)
 Topics include: Configuration Space, Rigid-Body Motions, Forward Kinematics, Velocity Kinematics and Statics, Inverse Kinematics, Kinematics of Closed Chains, Dynamics of Open Chains, Trajectory Generation, Motion Planning, Robot Control, Grasping and Manipulation and Wheeled Mobile Robots.
 
@@ -43,3 +46,5 @@ Topics include: Configuration Space, Rigid-Body Motions, Forward Kinematics, Vel
 * [A curated list of AI and machine learning resources](https://medium.com/machine-learning-in-practice/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
 
 * [A list of awesome Robotics resources](https://github.com/kiloreux/awesome-robotics)
+
+* [Overview of Some Discrete Probability Distributions](https://www.youtube.com/watch?v=UrOXRvG9oYE)
