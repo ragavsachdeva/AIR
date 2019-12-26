@@ -33,6 +33,13 @@ Gym Retro lets you turn classic video games into Gym environments for reinforcem
 #### [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)
 Making sense of the hidden layers.
 
+#### [Mixed Precision Training Using NVIDIA Apex in Pytorch](https://drive.google.com/file/d/1DMOxwMaY6_ztXcQDUyl6F0gD9imkLuHx/view?usp=sharing)
+NVIDIA’s Turing and Volta architecture’s support half-precision
+(16-bit) floating point operations. Due to the decreased size of
+representing values in this form, throughput of arithmetic operations
+and memory transfer can be increased whilst simultaneously reducing
+the overall memory required to store values.
+
 #### [Deploy ML models with Django](https://www.deploymachinelearning.com/)
 Read related [reddit post](https://www.reddit.com/r/MachineLearning/comments/dsvk20/p_deploy_machine_learning_models_with_django/).
 
