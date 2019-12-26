@@ -2,6 +2,9 @@
 
 ## Learning
 
+#### [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+If you are a beginner in the field of Deep Learning, you might wonder "Where do I get started?". Here is a reading roadmap of Deep Learning papers!
+
 #### [Open AI Spinning up](https://spinningup.openai.com/en/latest/index.html)
 An educational resource produced by OpenAI that makes it easier to learn about deep reinforcement learning (deep RL).
 
