@@ -11,6 +11,9 @@ An educational resource produced by OpenAI that makes it easier to learn about d
 #### [Arxiv Sanity](http://www.arxiv-sanity.com/)
 Arxiv is great, but there are many papers and we don't have good interfaces for interacting with this large body of work. Arxiv Sanity is Andrej Karpathy's solution to this.
 
+#### [AI Glossary](https://pathmind.com/wiki/glossary)
+The intent of this glossary is to provide clear definitions of the technical terms specific to deep artificial neural networks. It is a work in progress.
+
 ## Tools
 
 #### [Auptimizer](https://github.com/LGE-ARC-AdvancedAI/auptimizer)
