@@ -31,6 +31,9 @@ The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source Unity pl
 #### [OpenAI Gym Retro](https://github.com/openai/retro)
 Gym Retro lets you turn classic video games into Gym environments for reinforcement learning and comes with integrations for ~1000 games.
 
+#### [ImgAug](https://github.com/aleju/imgaug?fbclid=IwAR1HqdBWi5wh_TQ2YGe6EqZekfTkCfro6YZcVUkC_rhyEwZqwc9POUzoxHw)
+This python library helps you with augmenting images for your machine learning projects. It converts a set of input images into a new, much larger set of slightly altered images.
+
 ## Tutorials
 
 #### [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)
